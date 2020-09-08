@@ -1,6 +1,6 @@
 {
   "name": "@jonz94/ionic-angular-electron-starter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Electron starter based on Ionic, Angular, Tailwind CSS, Prettier",
   "homepage": "https://github.com/jonz94/ionic-angular-electron-starter#readme",
   "bugs": {
